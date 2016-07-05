@@ -1,7 +1,4 @@
-var a = 4
-var b = 6
-
-if {
-	a < b;
-	alert("Hey this Works!");
+function square(x){
+	return x * x;
 }
+console.log("Hey this works!")
